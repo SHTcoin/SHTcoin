@@ -16,7 +16,7 @@ Developers are strongly encouraged to write unit tests for new code, and to subm
 Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.<br><br>
 Frequently Asked Questions<br><br>
 How much coins can exist? – So much SHT!<br><br>
-50,000,000 including a 10,000,000 coin premine to free distribute to help spread the coin on social media<br><br>
+50,000,000<br><br>
 How to get the coins? – Aim for the moon!<br><br>
 SHTcoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The current block reward schedule:<br><br>
 1-20,000,000 coins = 10,000 per block<br>
